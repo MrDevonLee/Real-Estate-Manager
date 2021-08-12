@@ -1,0 +1,22 @@
+A 11 duplex 1100 45000
+A 12 ranch 750 60000
+A 9 walkout 1300 85000
+A 14 apartment 750 52000
+A 16 apartment 950 42000
+A 13 apartment 1050 82000
+PA
+D 9
+PA
+A 18 ranch 3400 242000
+PT apartment
+PS 750
+SP
+PA
+D 16
+SS
+PA
+SN
+PA
+PP 60000
+PN 14
+R
